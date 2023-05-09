@@ -16,4 +16,4 @@ jobs:
       - run: npm run format:check
       - run: npm test -- --coverage
         env:
-          CI: true # only 1 time
+          CI: true # only 1 time1
