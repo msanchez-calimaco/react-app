@@ -1,0 +1,4 @@
+* @msanchez-calimaco
+*.js @msanchez-calimaco
+*.yml @msanchez-calimaco
+/public/ @msanchez-calimaco
